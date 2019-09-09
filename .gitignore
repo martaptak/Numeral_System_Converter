@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Numeral System Converter/task/build/
+/Numeral System Converter/task/build/classes/java/main/
+/Numeral System Converter/task/build/classes/java/test/
